@@ -1,2 +1,2 @@
-public double add(a, b)
+double add(a, b)
 	return a+b
