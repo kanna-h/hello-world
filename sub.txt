@@ -1,2 +1,2 @@
-int sub(a, b)
+double sub(a, b)
 	return a-b;
