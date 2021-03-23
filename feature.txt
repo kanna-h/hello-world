@@ -1,4 +1,4 @@
-feature1 implemented
+feature 1 and 2 implemented
 
 
-new feature 1 implemented
+new feature 1 & 2 implemented
