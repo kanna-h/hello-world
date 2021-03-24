@@ -2,4 +2,4 @@ double add(a, b)
 	return a+b
 
 
-add updated
+add method updated
