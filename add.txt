@@ -1,2 +1,5 @@
 double add(a, b)
 	return a+b
+
+
+add method updated
